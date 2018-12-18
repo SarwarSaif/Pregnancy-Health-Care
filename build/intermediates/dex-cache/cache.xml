@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joker\.android\build-cache\99c290fb39c9097cb138b619bc18f58def1e0dc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AUST Work File\Andriod Project\PregnancyHealthCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08d86f50dee6b2f62a403764bdbb455d38cd4280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joker\.android\build-cache\fdb306d64769ea67693802db733031fbfcd9ae6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\AUST Work File\Andriod Project\PregnancyHealthCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e28d9f95d32545b7ae382c0993908d7b8d41e00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AUST Work File\Andriod Project\PregnancyHealthCare\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1553d89201a3a0e9607b4592b7f3d88b200b4655">
+        <dex dex="D:\AUST Work File\Andriod Project\PregnancyHealthCare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f11b3738d240403602443a31bbb4bd70d67427d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joker\.android\build-cache\1df0b465e09db1126b8bbbeeaaf92b2db9d7b7db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AUST Work File\Andriod Project\PregnancyHealthCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f71c0d7eff3804669f4846d680fcbfb8092750c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AUST Work File\Andriod Project\PregnancyHealthCare\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AUST Work File\Andriod Project\PregnancyHealthCare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_575032fdf99a7f0c2ae603601a0e44259751d536\classes.dex" />
+    </item>
+
+</items>
